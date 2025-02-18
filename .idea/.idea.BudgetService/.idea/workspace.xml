@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40a6cbc4-4f02-44c7-90f2-e6bba124566e" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/Budget/BudgetService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Budget/BudgetService.cs" afterDir="false" />
+    <list default="true" id="40a6cbc4-4f02-44c7-90f2-e6bba124566e" name="Changes" comment="fix">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BudgetService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BudgetService/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Budget" beforeDir="false" afterPath="$PROJECT_DIR$/Budget" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/net8.0/Budget.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Budget/obj/Debug/net8.0/Budget.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Budget/obj/Debug/net8.0/Budget.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Budget/obj/Debug/net8.0/Budget.AssemblyInfoInputs.cache" afterDir="false" />
     </list>
@@ -18,7 +19,7 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Budget" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -28,7 +29,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/BO-jack-zhou/Budget10.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/BO-jack-zhou/Budget_10.git&quot;,
     &quot;accountId&quot;: &quot;6e136e38-87ad-4db8-b559-ab5250d46eca&quot;
   }
 }</component>
@@ -53,7 +54,7 @@
   "keyToString": {
     "2e0c5a3d-bad5-439d-9d6e-af09cb33076e.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739870150687</updated>
-      <workItem from="1739870151913" duration="2995000" />
+      <workItem from="1739870151913" duration="3855000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -89,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739871984961</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix">
+      <option name="closed" value="true" />
+      <created>1739874043310</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739874043310</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
