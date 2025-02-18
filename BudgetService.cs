@@ -35,7 +35,7 @@ public class BudgetService
 
             if (effectiveStart <= effectiveEnd)
             {
-                total += (effectiveEnd - effectiveStart).Days + 1 * dailyAmount;
+                total += ((effectiveEnd - effectiveStart).Days + 1) * dailyAmount;
             }
         }
 
