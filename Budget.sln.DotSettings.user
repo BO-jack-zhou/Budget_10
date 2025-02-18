@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2e0c5a3d_002Dbad5_002D439d_002D9d6e_002Daf09cb33076e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="query_partial_month" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1850602E-E3EB-4CF8-924E-482C27E2C2F7::net8.0::UnitTest.BudgetServiceTests.query_partial_month&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1850602E-E3EB-4CF8-924E-482C27E2C2F7::net8.0::UnitTest.BudgetServiceTests.query_one_day&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1850602E-E3EB-4CF8-924E-482C27E2C2F7::net8.0::UnitTest.BudgetServiceTests.no_budgets&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1850602E-E3EB-4CF8-924E-482C27E2C2F7::net8.0::UnitTest.BudgetServiceTests.query_cross_two_month&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1850602E-E3EB-4CF8-924E-482C27E2C2F7::net8.0::UnitTest.BudgetServiceTests.end_date_earlier_than_start_date&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
